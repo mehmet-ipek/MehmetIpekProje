@@ -1,0 +1,3 @@
+Mehmet İpek 23010310039 Bilgisayar Mühendisliği 2. Sınıf 
+Kodum çalışıyor, belirttiğim "Bilgiler.txt" dosyasındaki verileri çekip yaptığım uygulamayı yapmaktadır.
+Eksik kısım yoktur, herhangi bir bölümde de çalışmamazlık yapmamaktadır.
