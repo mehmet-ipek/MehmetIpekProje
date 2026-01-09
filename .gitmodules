@@ -7,3 +7,6 @@
 [submodule "GorselProgramlamaProje3"]
 	path = GorselProgramlamaProje3
 	url = https://github.com/mehmet-ipek/GorselProgramlamaProje3.git
+[submodule "Mehmet_Depo"]
+	path = Mehmet_Depo
+	url = https://github.com/mehmet-ipek/Mehmet_Depo.git
