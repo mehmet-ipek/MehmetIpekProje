@@ -1,0 +1,9 @@
+[submodule "GorselProg"]
+	path = GorselProg
+	url = https://github.com/mehmet-ipek/GorselProg.git
+[submodule "GorselProgOdev2"]
+	path = GorselProgOdev2
+	url = https://github.com/mehmet-ipek/GorselProgOdev2.git
+[submodule "GorselProgramlamaProje3"]
+	path = GorselProgramlamaProje3
+	url = https://github.com/mehmet-ipek/GorselProgramlamaProje3.git
