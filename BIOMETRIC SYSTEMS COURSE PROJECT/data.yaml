@@ -1,0 +1,6 @@
+path: ../dataset_yolo  # Ana klasör yolu
+train: images/train    # Eğitim resimleri
+val: images/train      # Doğrulama (şimdilik aynı kalsın)
+
+nc: 1
+names: ['fingerprint']
