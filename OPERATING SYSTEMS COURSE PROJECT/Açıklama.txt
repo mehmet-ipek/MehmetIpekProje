@@ -1,0 +1,2 @@
+MEHMET İPEK 23010310039 ÖDEV TESLİM EDİLMİŞTİR.
+Ödev yapılırken pdf e uygun yapılmıştır. Konunun mantığına uygundur ve başka txt dosyalarıyla da denenmiştir, pdf in dışına çıkılmamıştır, Zip formatında sisteme yüklenmiştir, Ödevdeki kodlarda Non-preemptive SJF algoritmasını çeşitli kontrollerle sağlayıp saniye olarak simüle ederek dinamik bir uygulama geliştirdim.
